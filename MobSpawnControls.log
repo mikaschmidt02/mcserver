@@ -1,0 +1,17 @@
+07-31 23:25:46 [INFO] Mob Spawn Controls initializing...
+07-31 23:26:45 [INFO] Generating default creature type map...
+07-31 23:26:46 [INFO] Mapping biomes...
+07-31 23:26:46 [INFO] Creating default spawn configuration...
+07-31 23:26:46 [INFO] Generating configs in directory "C:\Users\mika.schmidt\Desktop\Server\.\config\default_msc"
+07-31 23:26:48 [INFO] Attempting to set spawn cap to 70 for monster
+07-31 23:26:48 [INFO] Attempting to set spawn cap to 10 for creature
+07-31 23:26:48 [INFO] Attempting to set spawn cap to 15 for ambient
+07-31 23:26:48 [INFO] Attempting to set spawn cap to 5 for waterCreature
+07-31 23:26:49 [WARNING] Unknown Entity "Spider(7-1-2)" in Vanilla.cfg:857 "biomesoplenty.common.biome.overworld.sub.BiomeGenSilkglades.Silkglades~creature:Spider(7-1-2)"
+07-31 23:26:49 [WARNING] Unknown Entity "Bat(3-1-1)" in Vanilla.cfg:902 "thaumcraft.common.lib.world.biomes.BiomeGenEerie.Eerie~creature:Bat(3-1-1)"
+07-31 23:47:42 [INFO] Creating spawn configuration for World "world"
+07-31 23:47:43 [INFO] Generating configs in directory "C:\Users\mika.schmidt\Desktop\Server\.\world\msc"
+07-31 23:47:45 [INFO] Attempting to set spawn cap to 70 for monster
+07-31 23:47:45 [INFO] Attempting to set spawn cap to 10 for creature
+07-31 23:47:45 [INFO] Attempting to set spawn cap to 15 for ambient
+07-31 23:47:45 [INFO] Attempting to set spawn cap to 5 for waterCreature
